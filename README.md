@@ -35,9 +35,9 @@ ESP32 → Blynk Cloud → Python AI → Control Signal → Relay
 ---
 
 ## 📸 Demo
-![Setup](Images/circuit.jpeg)
-![DashBoard](Images/blynk_setup.jpeg)
-![Full Project](Images/both.jpeg)
+![Setup](IMAGES/circuit.jpeg)
+![DashBoard](IMAGES/blynk_setup.jpeg)
+![Full Project](IMAGES/both.jpeg)
 
 ---
 
